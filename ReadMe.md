@@ -1,4 +1,4 @@
-<h1 align="center">FSOS - <code>SquadOS Firmware</code> for the Flipper Zero</h1>
+<h1 align="center">SQOS - <code>SquadOS Firmware</code> for the Flipper Zero</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55334727/209031152-efbca66c-3fe0-41b5-a860-e0d7522a9279.png">
