@@ -1,21 +1,18 @@
-<h1 align="center">XFW - <code>Xtreme Firmware</code> for the Flipper Zero</h1>
+<h1 align="center">FSOS - <code>SquadOS Firmware</code> for the Flipper Zero</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55334727/209031152-efbca66c-3fe0-41b5-a860-e0d7522a9279.png">
 </p>
 
-[Intro](https://github.com/ClaraCrazy/Flipper-Xtreme#What-makes-it-special) | [Animations](https://github.com/ClaraCrazy/Flipper-Xtreme#Animations) | [Changelog](https://github.com/ClaraCrazy/Flipper-Xtreme#list-of-changes) | [Known bugs](https://github.com/ClaraCrazy/Flipper-Xtreme#Known-bugs) | [Install](https://github.com/ClaraCrazy/Flipper-Xtreme#Install) | [Build](https://github.com/ClaraCrazy/Flipper-Xtreme#build-it-yourself) | [Discord](https://discord.gg/mC2FxbYSMr)
------
-
-This firmware is a complete overhaul of "RM" (RogueMaster), with changes on all graphics, `disgusting` code and more. Xtreme brings you the most for your little flipper companion.
+This firmware WAS a complete overhaul of "RM" (RogueMaster) with changes on all graphics, `disgusting` code and more. But NOW SquadOS brings you the most for your little flipper companion.
 
 -----
 <br>
 <h2 align="center">What makes it special?</h2>
 
-This firmware is based on RogueMaster (I know, should have forked unleashed, too late now). It combines the bleeding-edge PRs of Rogues firmware with actual understanding of whats going on, fixing bugs that are regularly talked about, removing unstable / broken applications (.FAP) and actually using the level system that just sits abandoned in RM.
+This firmware is based on RogueMaster (I actually forked from Xtreme...). It combines the bleeding-edge PRs of Rogues firmware with actual understanding of whats going on, fixing bugs that are regularly talked about, removing unstable / broken applications (.FAP) and actually using the level system that just sits abandoned in RM.
 <br><br>
-- The focus of this firmware is functionality & stability: If an App doesnt work, its gone
+- The focus of this firmware is functionality & stability: If an App doesnt work, its goneee
 
 - Giving the level system a purpose: Right now, each level unlocks a new wallpaper. More on that below
 
